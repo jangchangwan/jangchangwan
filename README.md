@@ -1,8 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=JANG%20CHANGWAN&fontSize=75&color=gradient&height=280)
 
 <hr>
+
 ## Blog
-![Notion](https://alabaster-paradox-2e2.notion.site/Today-is-learned-6bedf907e0d84b6ea4cec32d16e7ae90)
+[배운것들 기록하는 블로그](https://alabaster-paradox-2e2.notion.site/Today-is-learned-6bedf907e0d84b6ea4cec32d16e7ae90)<br><br>
+[포토 폴리오](https://alabaster-paradox-2e2.notion.site/a36a277be8b6433a84b44d1cb0dac160)
+
+<hr>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjangchangwan%2Fjangchangwan.git&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
