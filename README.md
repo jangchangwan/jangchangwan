@@ -3,7 +3,7 @@
 <hr>
 
 ## Blog
-[배운것들 기록하는 블로그](https://alabaster-paradox-2e2.notion.site/Today-is-learned-6bedf907e0d84b6ea4cec32d16e7ae90)<br><br>
+[배운것들 기록하는 블로그](https://changwan327.notion.site/Main-a36a277be8b6433a84b44d1cb0dac160)<br><br>
 [포토 폴리오](https://jangchangwan.github.io/portfolio)
 
 <hr>
