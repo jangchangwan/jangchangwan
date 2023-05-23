@@ -13,7 +13,7 @@
 프로젝트를 통한 배움을!
 
 - [CSS StoryBook](https://storybook-blue-sigma.vercel.app/?path=/story/intro-intro--default): no library / only js and css
-- [OnSikGo](https://webgl-and-canvas-storybook.vercel.app/?path=/story/welcome--page): Vue 와 Vuex를 활용한 마감임박식품 홍보 사이트 구현
+- [OnSikGo](https://github.com/jangchangwan/Onsikgo): Vue 와 Vuex를 활용한 마감임박식품 홍보 사이트 구현
 - [ChuAniOne](https://github.com/jangchangwan/ChuAniOne): TypeScript와 React를 이용하여 빅데이터 애니메이션 추천 사이트 구현
 - [AbuyZ](https://github.com/jangchangwan/AbuyZ): Next.js를 통해 A-Z 까지 모든 상품을 구매할 수 있는 쇼핑몰 사이트 구현
 
